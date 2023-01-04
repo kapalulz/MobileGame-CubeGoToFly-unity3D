@@ -26,4 +26,4 @@
 *The ball gradually splits as it hits objects.
 After three collisions, an advertisement will pop up, and after viewing, one life will be added.*
 
-* Best score will be saved on the main screen *
+* The best score will be saved on the main screen *
