@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img width="230" height="450" src="https://user-images.githubusercontent.com/17459523/210510618-68db7208-e449-4b1c-9220-9a3cb85579b8.png">
+<img width="230" height="450" src="https://cdn.discordapp.com/attachments/1044227371986853888/1060462076465778688/gif_1.gif">
   
   <img width="230" height="450" src="https://user-images.githubusercontent.com/17459523/210510674-93d59c87-7a73-411b-a128-03730f0a0205.png">
   
